@@ -7,4 +7,4 @@ class Person
   end 
 end 
 adele_goldberg = Person.new ("Adele Goldberg")
-alan_key = Person.new ("Alan Key")
+alan_kay = Person.new ("Alan Kay")
